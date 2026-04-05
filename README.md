@@ -7,7 +7,7 @@
 # 下载
 **Github：本页面右侧release下载**
 
-**蓝奏云：https://wwbkj.lanzouw.com/ixRFV3mf88da 密码b1us**
+**Gitcode：[https://gitcode.com/qm7121/ExcelRefinder](https://gitcode.com/qm7121/ExcelRefinder)**
 
 ## 1.3.1更新
 
