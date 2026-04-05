@@ -9,6 +9,7 @@
 
 **Gitcode：[https://gitcode.com/qm7121/ExcelRefinder](https://gitcode.com/qm7121/ExcelRefinder)**
 
+**Gitee：https://gitee.com/myt-hansui/ExcelRefinder.git**
 ## 1.3.1更新
 
 移除配置文件功能：删除原config.json配置文件的生成、读取、保存相关代码，无需再生成冗余配置文件，简化软件运行逻辑，避免配置文件异常导致的启动问题。
